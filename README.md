@@ -1,5 +1,5 @@
 # Crack-the-covid-crisis-BOTNET
-Botnet Software is a network of various bots for solving different problems faced during CoVid-19 in the lokckdwon period .
+Botnet Software is a network of various bots for solving different problems faced during CoVid-19 in the lockdown period .
 
 Botnet contains 4 bots  :
 
