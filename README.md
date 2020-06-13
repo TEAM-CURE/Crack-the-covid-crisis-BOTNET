@@ -26,6 +26,6 @@ Usage:
 	 
         1. Make sure to save the repository in one location
         2. It is mandatory to install all the requirements before using the application.So fire up the terminal and traverse to 
-           directory containing the repository then type:'python3 -m pip install -r requirements.txt' or 'pip3 install -r     		requirements.txt'
+           directory containing the repository then type:'python3 -m pip install -r requirements.txt' or 'pip3 install -r requirements.txt
         3. To run the application fire up the terminal and type:
 	   'python3 botnet.py' and wait patiently to enjoy the services offered.
