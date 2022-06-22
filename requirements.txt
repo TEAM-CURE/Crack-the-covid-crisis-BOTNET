@@ -8,7 +8,7 @@ ibm-watson==4.4.1
 idna==2.9
 joblib==0.14.1
 nltk==3.5
-numpy==1.18.4
+numpy==1.22.0
 pandas==1.0.3
 PyJWT==1.7.1
 python-dateutil==2.8.1
